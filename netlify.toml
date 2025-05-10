@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "/travelo.html"
+  status = 200
